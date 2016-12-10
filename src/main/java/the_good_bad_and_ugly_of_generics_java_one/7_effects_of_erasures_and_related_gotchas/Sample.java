@@ -1,4 +1,4 @@
-package the_good_bad_and_ugly_of_generics_java_one
+package the_good_bad_and_ugly_of_generics_java_one;
 
 import java.util.*;
 
